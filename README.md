@@ -105,18 +105,7 @@ It contains **2200+ samples** with the following features:
 
 ---
 
-## 🚀 How to Run
 
-```bash
-git clone https://github.com/your-username/crop-recommendation-ml.git
-cd crop-recommendation-ml
-pip install -r requirements.txt
-python crop_prediction.py
-```
-
-> The script will preprocess the data, train all models, perform evaluation, and print the results table.
-
----
 
 ## 📚 Future Work
 
